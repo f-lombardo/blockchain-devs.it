@@ -1,3 +1,3 @@
 # Sito del meetup blockchain-devs.it
 
-Pronti con il prossimo meetup!!!
+Per iscrizioni [accedete alla piattaforma Meetup](https://www.meetup.com/it-IT/Blockchain-Devs-Milano/)
