@@ -1,3 +1,4 @@
-# Incontro numero 9 del 21 ottobre: "Algorand: proof-of-stake blockchain" e "BT PAC: Piano di ACcumulo Digitale"
-Ci troveremo in Mikamai /LinkMe alle 19.15. Iscrivetevi a questo [link](https://www.meetup.com/it-IT/Blockchain-Devs-Milano/events/265449181/)
+# Presentazione
+Il punto di vista degli sviluppatori su blockchain e criptovalute. Tratteremo principalmente gli aspetti tecnologici, curandoci meno delle implicazioni economiche di questi strumenti.
 
+Per iscrizioni [accedete alla piattaforma Meetup](https://www.meetup.com/it-IT/Blockchain-Devs-Milano/)
