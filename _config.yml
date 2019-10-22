@@ -2,3 +2,5 @@ remote_theme: "Phlow/simplicityfeeling-responsive"
 title: Blockchain Devs Meetup
 description: Un meetup su Blockchain e Criptovalute dal punto di vista degli sviluppatori
 logo: /assets/img/logo.png
+
+theme: jekyll-theme-hacker
