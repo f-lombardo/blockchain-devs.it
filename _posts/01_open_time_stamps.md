@@ -1,1 +1,0 @@
-# Incontro 1 - Open Time Stamps
